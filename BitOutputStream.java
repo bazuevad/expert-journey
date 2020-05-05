@@ -11,7 +11,7 @@
  * Any exceptions generated are rethrown as <code>RuntimeException</code> objects
  * so client code does not have to catch or rethrow them.
  * <P>
- * @author Owen Astrachan
+ * @authors Owen Astrachan && Daria Bazueva
  * @version 1.0, July 2000
  * @version 2.0, October 2004
  */
